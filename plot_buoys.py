@@ -3,6 +3,7 @@ from matplotlib.offsetbox import AnchoredText
 import matplotlib.pyplot as plt
 import pandas as pd
 
+# Added MIT license to file LICENSE
 
 def plot_buoy_data():
 
