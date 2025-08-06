@@ -9,8 +9,8 @@ type: software
 authors:
  - given-names: Sauze
 name-particle: Colin
- - given-names: Turner
-family-names: Esther
+ - given-names: Ester
+family-names: Turner
  - given-names: Ferrira
 family-names: Tobias
 repository-code: >-
